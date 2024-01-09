@@ -7,7 +7,7 @@
  */
 
 // Patch any packages that need patching
-run("npx patch-package")
+runAndLogError("npx patch-package")
 
 // Kill the metro bundler if it's running.
 if (["darwin", "linux"].includes(process.platform)) {
