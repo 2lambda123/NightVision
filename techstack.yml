@@ -2,7 +2,7 @@ repo_name: 2lambda123/NightVision
 report_id: cbf16aeb393fc3bf55ee9a539bea1869
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:55:43+00:00'
+timestamp: '2024-02-29T19:15:49+00:00'
 requested_by: luoxuhai
 provider: github
 branch: master
@@ -45,7 +45,7 @@ tools:
   last_updated_by: Darkce
   last_updated_on: 2023-01-31 01:01:12.000000000 Z
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -160,7 +160,7 @@ tools:
   last_updated_by: Darkce
   last_updated_on: 2023-01-31 01:01:12.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.3
   license: MIT
